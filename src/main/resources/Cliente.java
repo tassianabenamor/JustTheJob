@@ -2,18 +2,16 @@ public class Cliente {
     private String nome;
     private String endereco;
     private String telefone;
-    private String email;
     // Considerando que Histórico de Limpeza e Serviços Contratados são listas de strings
     private List<String> historicoDeLimpeza;
     private List<String> servicosContratados;
 
 
     // Construtor, getters e setters
-    public Cliente(String nome, String endereco, String telefone, String email) {
+    public Cliente(String nome, String endereco, String telefone) {
         this.nome = nome;
         this.endereco = endereco;
         this.telefone = telefone;
-        this.email = email;
         this.historicoDeLimpeza = new ArrayList<>();
         this.servicosContratados = new ArrayList<>();
     }
