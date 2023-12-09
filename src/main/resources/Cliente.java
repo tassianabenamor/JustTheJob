@@ -7,6 +7,7 @@ public class Cliente {
     private List<String> historicoDeLimpeza;
     private List<String> servicosContratados;
 
+
     // Construtor, getters e setters
     public Cliente(String nome, String endereco, String telefone, String email) {
         this.nome = nome;
