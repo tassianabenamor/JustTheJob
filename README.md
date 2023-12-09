@@ -10,7 +10,6 @@ O RUP, um processo unificado desenvolvido pela IBM, oferece diretrizes para cada
 
 Em suma, o ciclo de vida do sistema é uma jornada complexa e estruturada que abrange desde a compreensão do problema até a implantação e manutenção do software. Modelos tradicionais como o Waterfall e o Espiral, juntamente com abordagens orientadas a objetos, oferecem diferentes maneiras de lidar com a complexidade do desenvolvimento de software. O RUP e a UML desempenham papéis cruciais nesse ciclo, garantindo a gestão eficiente de requisitos, a qualidade do software e a comunicação eficaz entre as partes envolvidas. Além disso, a documentação de software desempenha um papel fundamental ao longo do ciclo de vida, garantindo que todas as etapas sejam bem compreendidas e documentadas para futuras referências e manutenções. Em última análise, um ciclo de vida bem planejado e executado contribui para o sucesso e a qualidade dos projetos de software.
 
----
 
 # TP2/TP3
 
@@ -94,7 +93,7 @@ Em suma, o ciclo de vida do sistema é uma jornada complexa e estruturada que ab
 
 **Diagrama de Casos de Uso:**
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/80a8d215-d876-499b-9a27-b7753eba6567/869cd7b2-9f75-4a08-a2ca-71bc9651a3d8/Untitled.png
+![image](https://github.com/tassianabenamor/JustTheJob/assets/87051404/0399919c-2e61-4ec9-ab54-c34b721c2b14)
 
 **Descrições de Casos de Uso:**
 
@@ -193,7 +192,7 @@ Em suma, o ciclo de vida do sistema é uma jornada complexa e estruturada que ab
 
 Espero que essas correções estejam de acordo com o que você precisava. Se houver mais alguma coisa que você gostaria de ajustar, por favor, me informe.
 
----
+ 
 
 # TP4/TP5
 
@@ -353,7 +352,7 @@ Espero que essas correções estejam de acordo com o que você precisava. Se hou
 
 Por exemplo:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80a8d215-d876-499b-9a27-b7753eba6567/0ac3a87b-71be-43ab-bcdf-dc5ccd3ef949/Untitled.png)
+![image](https://github.com/tassianabenamor/JustTheJob/assets/87051404/9c20ff95-9c6e-4c17-853d-34e9d491ae74)
 
 ```xml
 @startuml
@@ -420,7 +419,7 @@ Horário: "08:00 - 18:00"
 
 **Diagrama de Classes**: apresentando todas as classes de domínio, apresentando também os seus atributos e as relações com outras classes, caso haja.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80a8d215-d876-499b-9a27-b7753eba6567/efa702dc-5a20-4b55-b080-9b98c8183e49/Untitled.png)
+![image](https://github.com/tassianabenamor/JustTheJob/assets/87051404/7daa83cb-a36b-40f9-ae44-89e6bae654e7)
 
 ```xml
 @startuml
@@ -474,7 +473,7 @@ Faxineiro "1" -- "n" Servico : Realiza
 @enduml
 ```
 
----
+
 
 # TP6/TP7
 
